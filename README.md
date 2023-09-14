@@ -3,6 +3,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+Setting Up Remote Desktop 
+https://github.com/IAMBIGBRYAN/Setting-Up-Remote-Desktop
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/IAMBIGBRYAN/osticket-prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
