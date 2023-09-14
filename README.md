@@ -10,7 +10,7 @@ https://github.com/IAMBIGBRYAN/Setting-Up-Remote-Desktop
   - [osTicket: Prerequisites and Installation](https://github.com/IAMBIGBRYAN/osticket-prereqs.git)
   
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/IAMBIGBRYAN/Configuring-On-Premises-Active-Directory-with-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
